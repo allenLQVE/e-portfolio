@@ -11,9 +11,9 @@ project_entries:
     desc: Records the merchandises shopped from different grocery stores
     highlight: Django
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Receipt Recorder FrontEnd
+    url: receipt-recorder-frontend
+    desc: UI for Receipt Recorder where user can interact with the data
 
   - title: Project 3
     url: overview-post
