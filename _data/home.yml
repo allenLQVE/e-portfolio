@@ -20,3 +20,8 @@ project_entries:
     url: 3d-maze
     desc: A 3D Maze built with Raycasting
     highlight: Java
+
+  - title: Chat Application
+    url: chat-application
+    desc: A chat application that allows mutiple user to chat in different rooms
+    highlight: Java
