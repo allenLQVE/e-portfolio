@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: [Python, Django, SQLite3, RESTful API]
+title: Receipt Recorder BackEnd
 ---
 This application allowed users to record the merchandise they bought from different grocery stores. It can be used to compare the prices between the stores or to see the frequency of purchasing specific items.
 

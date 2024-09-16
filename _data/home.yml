@@ -6,7 +6,7 @@ navbar_entries:
     url: https://github.com/allenLQVE
 
 project_entries:
-  - title: Receipt Recorder
+  - title: Receipt Recorder BackEnd 
     url: receipt-recorder
     desc: Records the merchandises shopped from different grocery stores
     highlight: Django
@@ -14,21 +14,9 @@ project_entries:
   - title: Receipt Recorder FrontEnd
     url: receipt-recorder-frontend
     desc: UI for Receipt Recorder where user can interact with the data
+    highlight: React
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: 3D Maze
+    url: 3D-maze
+    desc: A 3D Maze built with Raycasting
+    highlight: Java
