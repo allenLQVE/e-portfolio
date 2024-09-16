@@ -8,7 +8,7 @@ title: About Me
     }
 </style>
 
-<img src="./assets/images/headshot.jpg" alt="pictureOfMe" style="width:30%; height:30%;">
+<img src="assets/images/headshot.jpg" alt="pictureOfMe" style="width:30%; height:30%;">
 <hr/>
 
 <span class="tab">Hi! I am HungHsu Chen, and I also go by Allen. I am passionate about coding, bouldering, and gaming (on both board games and video games!). I am a student at Boston University and am working on my Master of Science in Computer Science. I am aiming to become a software developer.

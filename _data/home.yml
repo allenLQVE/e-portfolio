@@ -17,6 +17,6 @@ project_entries:
     highlight: React
 
   - title: 3D Maze
-    url: 3D-maze
+    url: 3d-maze
     desc: A 3D Maze built with Raycasting
     highlight: Java
