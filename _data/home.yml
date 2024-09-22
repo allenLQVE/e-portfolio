@@ -25,3 +25,8 @@ project_entries:
     url: chat-application
     desc: A chat application that allows mutiple user to chat in different rooms
     highlight: Java
+
+  - title: N-Guessing Game
+    url: n-guessing-game
+    desc: A challenging and logical game lets player to guess n-digits number
+    highlight: Java

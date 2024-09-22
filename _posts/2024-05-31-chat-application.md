@@ -3,8 +3,8 @@ layout: post
 tags: [Java, Web Socket, Java FX]
 ---
 
-<img src="assets/images/screenshot-chatapp1.PNG" alt="screenshot of 3D Maze" style="width: 49%; display: inline;">
-<img src="assets/images/screenshot-chatapp2.PNG" alt="screenshot of 3D Maze" style="width: 49%; display: inline;">
+<img src="assets/images/screenshot-chatapp1.PNG" alt="screenshot of Chat application" style="width: 49%; display: inline;">
+<img src="assets/images/screenshot-chatapp2.PNG" alt="screenshot of Chat application" style="width: 49%; display: inline;">
 <hr/>
 
 This is an application that allows users to chat with other people who are connecting to the server in different chat rooms. \
