@@ -6,6 +6,11 @@ navbar_entries:
     url: https://github.com/allenLQVE
 
 project_entries:
+  - title: Daily Email Notifier
+    url: daily-email-notifier
+    desc: Send out email daily on subscribed news
+    highlight: Java
+
   - title: Receipt Recorder BackEnd 
     url: receipt-recorder
     desc: Records the merchandises shopped from different grocery stores

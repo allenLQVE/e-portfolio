@@ -2,7 +2,8 @@ title: HungHsu(Allen) Chen's E-Portfolio
 author: HungHsu(Allen) Chen
 url: https://allenlqve.github.io/e-portfolio/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  This page is an E-Portfolio for me, Allen, to present the projects that I have done.
+  This page is an E-Portfolio for me, Allen, to present the projects that I have done. 
+  Please go to the About Me page to know more about me, or click any project to know more about them!
 
 permalink: /:slug
 
