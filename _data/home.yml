@@ -6,6 +6,16 @@ navbar_entries:
     url: https://github.com/allenLQVE
 
 project_entries:
+  - title: YouTube Randomizer
+    url: youtube-randomizer
+    desc: Player to play shuffled YouTube playlist
+    highlight: JavaScript
+
+  - title: Campus Exchange
+    url: campus-exchange
+    desc: Second-hand trading app for BU students
+    highlight: Springboot
+
   - title: Daily Email Notifier
     url: daily-email-notifier
     desc: Send out email daily on subscribed news
